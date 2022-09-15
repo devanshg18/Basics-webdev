@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:grey;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+div.main{
+    width: 100px auto;
+    margin: 100px auto 0px auto;
+}
+h2{
+    text-align: center;
+    font-family: serif;
+    padding: 20px;
+}
+div.registration{
+    text-align:center;
+    background-color:chocolate;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 25px;
+
+}
+form#register{
+    margin: 50px;
+}
+label{
+    font-size: 18px;
+    font-style: oblique;
+}
